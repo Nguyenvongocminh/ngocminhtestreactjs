@@ -1,0 +1,44 @@
+.home-container {
+    
+    .form-register {
+        margin: 50px;
+    }
+
+    h1 {
+        color: chocolate;
+        text-align: center;
+    }
+
+    label {
+        font-weight: 700;
+        margin-right: 15px;
+    }
+
+    input {
+        // width: 200px;
+        padding: 8px;
+        margin-top: 10px;
+    }
+    .form-register {
+        margin: 50px;
+        background-color: aquamarine;
+        width: 300px;
+        padding-left: 40px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+.courses {
+        width: 200px;
+        padding: 8px;
+        margin-top: 8px;
+    }
+
+    .btn-click {
+        padding: 5px 10px;
+        background-color: darkcyan;
+        color: aliceblue;
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 20px
+    }
+}
